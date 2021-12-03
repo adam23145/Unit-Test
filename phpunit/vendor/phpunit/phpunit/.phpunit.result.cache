@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SimpleTest::testCountWords":3,"EmployeeTest::shouldCreateObject":4},"times":{"SimpleTest::testCountWords":0.386,"EmployeeTest::shouldCreateObject":0.525,"loginTest::testlogin":0.006}}
